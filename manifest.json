@@ -1,0 +1,21 @@
+{
+    "name": "Tegro SMM",
+    "short_name": "Tegro SMM",
+    "start_url": "/",
+    "icons": [
+        {
+            "src": "/assets/images/logo/apple-touch-icon-192x192.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable any"
+        },
+        {
+            "src": "/assets/images/logo/apple-touch-icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable any"
+        }
+    ],
+    "display": "standalone",
+    "orientation":"portrait"
+}
