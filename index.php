@@ -26,7 +26,7 @@
                 <picture>
                     <source srcset="assets/images/webp/hero-image.webp" type="image/webp"></source>
                     <source srcset="assets/images/hero-image.png" type="image/jpeg">
-                    <img class="hero-present__image hide" src="assets/images/hero-image.png" alt="Продвижение в соцсетях" width="214" height="650">
+                    <img loading="lazy" class="hero-present__image" src="assets/images/hero-image.png" alt="Продвижение в соцсетях" width="214" height="650">
                     </source>
                 </picture>
                 <div class="hero-present__oval"></div>

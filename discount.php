@@ -558,7 +558,7 @@
    </div>
 </div>
 <!-- Разметка для Toasts -->
-<div class="card toast bottom-0 position-fixed border m-2" id="copyToast" role="alert" aria-live="assertive" aria-atomic="true">
+<div class="card toast top-0 start-50 position-fixed border m-3" id="copyToast" role="alert" aria-live="assertive" aria-atomic="true" style="transform: translateX(-50%);">
   <div class="card-body text-secondary p-3">
     <i class="fad fa-info-circle me-2 ph-color"></i> Промо-код скопирован в буфер обмена
   </div>

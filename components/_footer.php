@@ -60,7 +60,11 @@
 
   </div>
 </footer>
-
+<?php
+$hidden_pages = ['/index.php', '/login.php', '/sing-up.php', '/reset-password.php'];
+$current_page = $_SERVER['PHP_SELF'];
+?>
+<?php if (!in_array($current_page, $hidden_pages)): ?>
 <div class="mobile-menu d-flex justify-content-between d-md-none w-100 p-2 bg-card border-top text-center text-secondary sticky-bottom z-2" style="bottom: 0;">
   <a href="/dashboard.php" class="flex-fill">
     <i class="fad fa-chart-bar fs-24"></i>
@@ -79,14 +83,14 @@
     <p class="m-0 fs-12 fw-500 mt-1">Помощь</p>
   </a>
 </div>
-
+<?php endif; ?>
 <script src="/assets/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/js/main.js?v=<?=time()?>"></script>
 
 <script>
 document.addEventListener("DOMContentLoaded", function() {
   var script = document.createElement('script');
-  script.src = '/assets/js/fonts.js?v=<?=time()?>';
+  script.src = '/assets/js/fonts.js';
   document.body.appendChild(script);
 
    if('serviceWorker' in navigator){

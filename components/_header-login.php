@@ -46,9 +46,9 @@ if (!empty($_COOKIE['theme'])) {
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav align-items-center me-auto mb-2 mb-lg-0">
-                    <li class="nav-item dropdown"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-instagram instagram-color"></i>Instagram</a>
+                    <li class="nav-item dropdown"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-instagram instagram-color"></i>Instagram</a>
                         <ul class="dropdown-menu">
-                             <li>
+                            <li>
                                 <a href="/order-discout.php" class="dropdown-item active d-flex align-items">
                                     <i class="nav-link__icon far fa-box me-3"></i>
                                     Пакет услуг
@@ -65,7 +65,7 @@ if (!empty($_COOKIE['theme'])) {
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-share-alt me-3"></i>Охват и показы</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-tiktok tiktok-color"></i>TikTok</a>
+                    <li class="nav-item dropdown"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-tiktok tiktok-color"></i>TikTok</a>
                         <ul class="dropdown-menu">
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-eye me-3"></i>Просмотры</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-users me-3"></i>Подписчики</a></li>
@@ -73,7 +73,7 @@ if (!empty($_COOKIE['theme'])) {
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-comments-alt me-3"></i>Комментарии</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-youtube youtube-color"></i>Youtube</a>
+                    <li class="nav-item dropdown"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-youtube youtube-color"></i>Youtube</a>
                         <ul class="dropdown-menu">
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-eye me-3"></i>Просмотры</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-users me-3"></i>Подписчики</a></li>
@@ -81,7 +81,7 @@ if (!empty($_COOKIE['theme'])) {
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-comments-alt me-3"></i>Комментарии</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-telegram telegram-color"></i>Telegram</a>
+                    <li class="nav-item dropdown"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-telegram telegram-color"></i>Telegram</a>
                         <ul class="dropdown-menu">
                             <li><a href="/telegram-analysis.php" class="dropdown-item"><i class="nav-link__icon far fa-chart-pie me-3"></i>Аналитика канала</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-eye me-3"></i>Просмотры</a></li>
@@ -89,7 +89,7 @@ if (!empty($_COOKIE['theme'])) {
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-face-grin-hearts me-3"></i>Реакции</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown d-lg-none d-xl-block"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-facebook facebook-color"></i>Facebook</a>
+                    <li class="nav-item dropdown d-lg-none d-xl-block"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-facebook facebook-color"></i>Facebook</a>
                         <ul class="dropdown-menu">
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-eye me-3"></i>Просмотры</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-users me-3"></i>Подписчики</a></li>
@@ -97,16 +97,16 @@ if (!empty($_COOKIE['theme'])) {
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-comments-alt me-3"></i>Комментарии</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown d-lg-none d-xl-block"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-spotify spotify-color"></i>Spotify</a>
+                    <li class="nav-item dropdown d-lg-none d-xl-block"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="nav-link__icon fa-brands fa-spotify spotify-color"></i>Spotify</a>
                         <ul class="dropdown-menu dropdown-menu-end">
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-eye me-3"></i>Просмотры</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-users me-3"></i>Подписчики</a></li>
                             <li><a href="#!" class="dropdown-item"><i class="nav-link__icon far fa-heart me-3"></i>Лайки</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Прочие соцсети">
-                    Ещё<i class="fas fa-angle-down ms-2 d-none d-lg-block"></i>
-                    </a>
+                    <li class="nav-item dropdown"><a class="nav-link nav-link-dropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Прочие соцсети">
+                         Ещё<i class="fas fa-angle-down ms-2 d-none d-lg-block"></i>
+                        </a>
                         <ul class="dropdown-menu dropdown-menu-end">
                             <li><a class="dropdown-item" href="#"><i class="nav-link__icon fab fa-pinterest-p pinterest-color"></i>Pinterest</a></li>
                             <li><a class="dropdown-item" href="#"><i class="nav-link__icon far fa-headphones music-color"></i>Music</a></li>

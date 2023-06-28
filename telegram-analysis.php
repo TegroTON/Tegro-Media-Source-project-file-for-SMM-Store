@@ -5,7 +5,7 @@
    <div class="container">
       <div class="row align-items-center">
          <div class="col-lg-5">
-            <h1 class="fs-48 fw-900 mb-3">Анализ <span class="d-block">Telegram-канала</span></h1>
+            <h1 class="section__heading mb-3">Анализ <span class="d-block">Telegram-канала</span></h1>
             <p class="fs-18 text-secondary mb-40">
                Мы проведем полный анализ телеграм-канала перед его покупкой и предоставим всю необходимую информацию о его активности и популярности.
             </p>
@@ -16,7 +16,7 @@
                   <input class="form-control" placeholder="Ссылка на Telegram-канала" required>
                   <div class="input-group-text p-1">
                      <a href="/order-analysis.php" class="btn btn-primary d-none d-sm-block">Быстрый старт</a>
-                     <a href="/order-analysis.php" class="btn btn-primary btn-icon d-block d-sm-none" aria-label="Быстрый старт"><i class="fal fa-paper-plane me-1 fs-22"></i></a>
+                     <a href="/order-analysis.php" class="btn btn-primary btn-icon d-flex d-sm-none" aria-label="Быстрый старт"><i class="fal fa-paper-plane me-1 fs-22"></i></a>
                   </div>
                </div>
          </div>
@@ -25,7 +25,7 @@
                <source srcset="/assets/images/webp/analysis.webp" type="image/webp">
                </source>
                <source srcset="/assets/images/analysis.png" type="image/jpeg">
-               <img class="hero-present__image hide" src="/assets/images/analysis.png" alt="Продвижение в соцсетях" width="278" height="650">
+               <img class="hero-present__image hide" src="/assets/images/analysis.png" alt="Продвижение в соцсетях" width="256" height="600">
                </source>
             </picture>
             <div class="hero-present__oval"></div>
