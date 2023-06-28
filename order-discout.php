@@ -50,14 +50,6 @@
             <h3 class="mb-1 fs-20 fw-700">Итого:</h3>
             <div class="card-list mb-2 fs-14">
                <div class="card-list__item d-flex align-items-center box h-48">
-                  <div class="text-secondary">Тариф</div>
-                  <div id="selectedTariffName" class="fw-500 ms-auto"></div>
-               </div>
-               <div class="card-list__item d-flex align-items-center box h-48 py-3 ">
-                  <div class="text-secondary">Цена за действие:</div>
-                  <div class="ms-auto fw-500"><span id="selectedTariffPrice"></span> RUB / шт.</div>
-               </div>
-               <div class="card-list__item d-flex align-items-center box h-48">
                   <div class="text-secondary">Подписчиков:</div>
                   <div class="ms-auto fw-500">5000 шт.</div>
                </div>

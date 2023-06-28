@@ -478,3 +478,53 @@ for (var i = 0; i < links.length; i++) {
 //         });
 //     }
 // });
+
+// Получаем форму и ее поля
+const form = document.getElementById('myForm');
+const nameInput = document.getElementById('name');
+const emailInput = document.getElementById('email');
+const ageInput = document.getElementById('age');
+const nameError = document.getElementById('nameError');
+const emailError = document.getElementById('emailError');
+const ageError = document.getElementById('ageError');
+
+// Функция валидации формы
+function validateForm(event) {
+  // Отключаем стандартное поведение формы
+  event.preventDefault();
+
+  // Проверка на стороне клиента (frontend validation)
+  if (!form.checkValidity()) {
+    // Показываем сообщения об ошибках
+    form.reportValidity();
+    return;
+  }
+
+  // Проверка на стороне сервера (backend validation)
+  // Можно отправить данные на сервер для дополнительной проверки
+
+  // Обеспечение консистентности данных
+  const age = parseInt(ageInput.value);
+  if (age < 18 || age > 99) {
+    ageError.textContent = 'Пожалуйста, введите возраст от 18 до 99 лет.';
+    return;
+  }
+
+  // Если все проверки пройдены успешно, можно отправить данные на сервер
+  // form.submit();
+}
+
+// Функция очистки сообщений об ошибках
+function clearErrors() {
+  nameError.textContent = '';
+  emailError.textContent = '';
+  ageError.textContent = '';
+}
+
+// Обработчик события отправки формы
+form.addEventListener('submit', validateForm);
+
+// Обработчик события изменения полей ввода
+nameInput.addEventListener('input', clearErrors);
+emailInput.addEventListener('input', clearErrors);
+ageInput.addEventListener('input', clearErrors);

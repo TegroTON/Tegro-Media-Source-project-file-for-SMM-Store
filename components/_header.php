@@ -37,7 +37,7 @@ if (!empty($_COOKIE['theme'])) {
 <body class="<?php echo $themeClass; ?>">
 <main class="wrapper border-page-right border-page-left">
     <?php if($_SERVER['REQUEST_URI'] == '/order.php') { ?>
-<div class="alert m-0 bg-gradient py-1 fs-14 fw-500 rounded-0">
+<div class="alert m-0 bg-gradient p-0 fs-14 fw-500 rounded-0">
    <div class="container d-flex align-items-center justify-content-center text-center text-white">
     Авторизируйтесь для отслеживания и управления своими заказами. 
     <button type="button" class="btn btn-icon text-white ms-3" data-bs-dismiss="alert" aria-label="Close"><i class="fas fa-xmark"></i></button>
