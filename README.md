@@ -1,47 +1,48 @@
-### Tegro Media Source project Front file for SMM Store 
+### Tegro Media Source Project - Front File for SMM Store 
 
-#### Описание Проекта
-Tegro SMM Store – это комплексный проект, разработанный в Figma, для создания магазина социальных медиа маркетинга (SMM). Проект сочетает в себе современные тренды в дизайне и функциональности, обеспечивая высококачественный пользовательский опыт и удобный интерфейс. Особенностью является интеграция с продвинутой платформой продаж SMM услуг и современной системой https://smmpanel.ru 
+#### Project Description
+Tegro SMM Store is a comprehensive project developed in Figma, designed to establish a Social Media Marketing (SMM) store. This project blends modern design trends and functionality, ensuring a high-quality user experience and an intuitive interface. A key feature is its integration with an advanced SMM service sales platform and the cutting-edge system available at [smmpanel.ru](https://smmpanel.ru).
 
-#### Основные Характеристики
-- **Интуитивный Дизайн**: Простой и привлекательный дизайн упрощает навигацию и использование.
-- **Модульная Структура**: Позволяет легко модифицировать и масштабировать проект.
-- **Адаптивность**: Дизайн оптимизирован для различных устройств и размеров экранов.
-- **Современные Тренды**: Применение последних тенденций в дизайне и технологиях.
-- **Пользовательский Опыт**: Фокус на удобстве и удовлетворении потребностей клиентов.
+#### Key Features
+- **Intuitive Design**: Simple and appealing design facilitates ease of navigation and usage.
+- **Modular Structure**: Enables easy modification and scaling of the project.
+- **Responsiveness**: Design optimized for various devices and screen sizes.
+- **Modern Trends**: Incorporates the latest trends in design and technology.
+- **User Experience**: Focuses on convenience and meeting customer needs.
 
-#### Цель SMM-сервиса
-Предоставление комплексного решения для SMM магазинов, включая инструменты для продвижения и управления контентом в социальных сетях, упрощение процесса создания и адаптации магазина SMM для различных аудиторий.
+#### Purpose of the SMM Service
+To provide a comprehensive solution for SMM stores, including tools for promotion and content management in social networks. This simplifies the process of creating and adapting the SMM store for different audiences.
 
-#### Структура Файлов Проекта
+#### Project File Structure
 
-1. **assets** - Медиа ресурсы и стилевые файлы.
-2. **components** - React компоненты для элементов интерфейса.
-3. **.DS_Store** - Системный файл macOS для пользовательских атрибутов папки.
-4. **.gitignore** - Список игнорируемых файлов для Git.
-5. **.htaccess** - Конфигурация для веб-сервера Apache.
+1. **assets** - Media resources and style files.
+2. **components** - React components for interface elements.
+3. **.DS_Store** - macOS system file for custom folder attributes.
+4. **.gitignore** - List of files ignored by Git.
+5. **.htaccess** - Configuration for Apache web server.
 
-#### PHP Файлы
-- **404.php** - Страница ошибки 404.
-- **balance.php** - Управление балансом пользователя.
-- **dashboard-none.php, dashboard.php** - Версии панели управления.
-- **discount.php** - Управление скидками.
-- **index.php** - Главная страница сайта.
-- **login.php** - Страница авторизации.
-- **new-password.php, reset-password-confirm.php, reset-password.php** - Страницы для сброса и установки нового пароля.
-- **offer.php** - Специальные предложения и услуги.
-- **order-analysis.php, order-discout.php, order.php** - Управление заказами.
-- **payment-successful.php** - Страница успешной оплаты.
-- **policy.php** - Политика конфиденциальности.
-- **settings.php** - Настройки пользователя.
-- **sing-up.php** - Регистрация нового пользователя.
-- **telegram-analysis.php** - Анализ данных из Telegram.
-- **webapp.js** - Основной JavaScript файл проекта.
+#### PHP Files
+- **404.php** - 404 error page.
+- **balance.php** - User balance management.
+- **dashboard-none.php, dashboard.php** - Dashboard versions.
+- **discount.php** - Discount management.
+- **index.php** - Main website page.
+- **login.php** - Login page.
+- **new-password.php, reset-password-confirm.php, reset-password.php** - Pages for password reset and new password setup.
+- **offer.php** - Special offers and services.
+- **order-analysis.php, order-discout.php, order.php** - Order management.
+- **payment-successful.php** - Successful payment page.
+- **policy.php** - Privacy policy.
+- **settings.php** - User settings.
+- **sing-up.php** - New user registration.
+- **telegram-analysis.php** - Telegram data analysis.
+- **webapp.js** - Main JavaScript file of the project.
 
-#### Дополнительные Файлы
-- **manifest.json** - Описание веб-приложения.
-- **package-lock.json, package.json** - Управление зависимостями Node.js.
-- **renovate.json** - Автоматическое обновление зависимостей.
+#### Additional Files
+- **manifest.json** - Web application description.
+- **package-lock.json, package.json** - Node.js dependency management.
+- **renovate.json** - Automatic dependency updates.
 
-### Связь с разработчиками
-Узнать подробности о проекте, а также связаться с командой разработчиков, можно через форму обратной связи на официальном сайте https://tegro.ru или tegro.io. На сайтах вы также найдёте широкий спектр инструментов и решений, разработанных Tegro для улучшения децентрализованных финансовых операций, включая платежные системы, интеграцию с мессенджером Telegram, различные веб-приложения и поддержку криптовалют.
+### Connect with Developers
+To learn more about the project and connect with the development team, visit our official website at [tegro.ru](https://tegro.ru) or [tegro.io](https://tegro.io). Here, you can find a wide range of tools and solutions developed by Tegro to enhance decentralized financial operations, including payment systems, integration with Telegram messenger, various web applications, and cryptocurrency support. The site also features a contact form for direct communication with our team.
+
