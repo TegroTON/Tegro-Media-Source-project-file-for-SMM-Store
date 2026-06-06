@@ -44,7 +44,7 @@ To provide a comprehensive solution for SMM stores, including tools for promotio
 - **renovate.json** - Automatic dependency updates.
 
 ### Connect with Developers
-To learn more about the project and connect with the development team, visit our official website at [tegro.ru](https://tegro.ru) or [tegro.money](https://tegro.money). Here, you can find a wide range of tools and solutions developed by Tegro to enhance decentralized financial operations, including payment systems, integration with Telegram messenger, various web applications, and cryptocurrency support. The site also features a contact form for direct communication with our team.
+To learn more about the project and connect with the development team, visit our official website at [tegro.money](https://tegro.money). Here, you can find a wide range of tools and solutions developed by Tegro to enhance decentralized financial operations, including payment systems, integration with Telegram messenger, various web applications, and cryptocurrency support. The site also features a contact form for direct communication with our team.
 
 ---
 
