@@ -26,7 +26,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField1" value="65k3T5Nwlg6">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField1')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/tinkoffinvest" class="btn btn-primary mt-2" target="_blank">ИИС у брокера</a>
+            <a href="https://tegro.money/tinkoffinvest" class="btn btn-primary mt-2" target="_blank">ИИС у брокера</a>
          </div>
       </div>
       <!--Col Card-->
@@ -76,7 +76,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField3" value="12629492">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField3')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/okex" class="btn btn-primary mt-2" target="_blank">Начать торговать</a>
+            <a href="https://tegro.money/okex" class="btn btn-primary mt-2" target="_blank">Начать торговать</a>
          </div>
       </div>
       <!--Col Card-->
@@ -101,7 +101,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField4" value="159756">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField4')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/tmcryptobot" class="btn btn-primary mt-2" target="_blank">Получить TON Coin </a>
+            <a href="https://tegro.money/tmcryptobot" class="btn btn-primary mt-2" target="_blank">Получить TON Coin </a>
          </div>
       </div>
       <!--Col Card-->
@@ -126,7 +126,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField5" value="1008243257893788869">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField5')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/mercuryoapp" class="btn btn-primary mt-2" target="_blank">Купить криптовалюту</a>
+            <a href="https://tegro.money/mercuryoapp" class="btn btn-primary mt-2" target="_blank">Купить криптовалюту</a>
          </div>
       </div>
       <!--Col Card-->
@@ -151,7 +151,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField6" value="TNJ8HVEO">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField6')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/binancecom" class="btn btn-primary mt-2" target="_blank">Регистрация на бирже</a>
+            <a href="https://tegro.money/binancecom" class="btn btn-primary mt-2" target="_blank">Регистрация на бирже</a>
          </div>
       </div>
       <!--Col Card-->
@@ -176,7 +176,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField7" value="9794102">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField7')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/gateio" class="btn btn-primary mt-2" target="_blank">Продать криптовалюту</a>
+            <a href="https://tegro.money/gateio" class="btn btn-primary mt-2" target="_blank">Продать криптовалюту</a>
          </div>
       </div>
       <!--Col Card-->
@@ -201,7 +201,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField8" value="272155">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField8')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/exmome" class="btn btn-primary mt-2" target="_blank">Начать торговать</a>
+            <a href="https://tegro.money/exmome" class="btn btn-primary mt-2" target="_blank">Начать торговать</a>
          </div>
       </div>
       <!--Col Card-->
@@ -326,7 +326,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField13" value="0708a2e4f9db1f58b5e0">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField13')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/biswap" class="btn btn-primary mt-2" target="_blank">Начать фарминг</a>
+            <a href="https://tegro.money/biswap" class="btn btn-primary mt-2" target="_blank">Начать фарминг</a>
          </div>
       </div>
       <!--Col Card-->
@@ -376,7 +376,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField15" value="E178-25B0-F31A-E57D">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField15')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/regru" class="btn btn-primary mt-2" target="_blank">Хостинг для бизнеса</a>
+            <a href="https://tegro.money/regru" class="btn btn-primary mt-2" target="_blank">Хостинг для бизнеса</a>
          </div>
       </div>
       <!--Col Card-->
@@ -401,7 +401,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField16" value="12624">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField16')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/onlinepatent" class="btn btn-primary mt-2" target="_blank">Товарный знак</a>
+            <a href="https://tegro.money/onlinepatent" class="btn btn-primary mt-2" target="_blank">Товарный знак</a>
          </div>
       </div>
       <!--Col Card-->
@@ -426,7 +426,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField17" value="6955c50ea0acf3ca">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField17')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/rkotochka" class="btn btn-primary mt-2" target="_blank">Открыть Р/С в банке</a>
+            <a href="https://tegro.money/rkotochka" class="btn btn-primary mt-2" target="_blank">Открыть Р/С в банке</a>
          </div>
       </div>
       <!--Col Card-->
@@ -451,7 +451,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField18" value="P1000804">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField18')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/jetlend" class="btn btn-primary mt-2" target="_blank">Получить инвестицию</a>
+            <a href="https://tegro.money/jetlend" class="btn btn-primary mt-2" target="_blank">Получить инвестицию</a>
          </div>
       </div>
       <!--Col Card-->
@@ -476,7 +476,7 @@
                <input type="text" class="form-control fs-14" aria-label="Промо-код"  id="inputField19" value="83a67751c7bfbff2">
                <a href="#!" class="input-group-text ph-color" onclick="copyToClipboard('inputField19')"><i class="far fa-copy"></i></a>
             </div>
-            <a href="https://tegro.click/promopult" class="btn btn-primary mt-2" target="_blank">Получить бонус РК</a>
+            <a href="https://tegro.money/promopult" class="btn btn-primary mt-2" target="_blank">Получить бонус РК</a>
          </div>
       </div>
       <!--Col Card-->

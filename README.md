@@ -44,5 +44,14 @@ To provide a comprehensive solution for SMM stores, including tools for promotio
 - **renovate.json** - Automatic dependency updates.
 
 ### Connect with Developers
-To learn more about the project and connect with the development team, visit our official website at [tegro.ru](https://tegro.ru) or [tegro.io](https://tegro.io). Here, you can find a wide range of tools and solutions developed by Tegro to enhance decentralized financial operations, including payment systems, integration with Telegram messenger, various web applications, and cryptocurrency support. The site also features a contact form for direct communication with our team.
+To learn more about the project and connect with the development team, visit our official website at [tegro.ru](https://tegro.ru) or [tegro.money](https://tegro.money). Here, you can find a wide range of tools and solutions developed by Tegro to enhance decentralized financial operations, including payment systems, integration with Telegram messenger, various web applications, and cryptocurrency support. The site also features a contact form for direct communication with our team.
 
+---
+
+> ℹ️ **Note:** This repository is the **front-end design source** of the Tegro SMM Store (built in Figma, served via PHP). It is published as an open-source design/reference artifact.
+
+## 🌐 Tegro Ecosystem
+
+- 💳 **Payments (Tegro Money)** — https://tegro.money
+- 🔁 **DEX (Tegro Finance)** — https://tegro.finance
+- 🏠 **All open-source repos** — https://github.com/TegroTON

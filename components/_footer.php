@@ -29,7 +29,7 @@
         <a href="https://tegro.finance" target="_blank" class="d-block mb-2 fs-14">DEX для TON</a>
         <a href="https://dev.uniton.app/" target="_blank" class="d-block mb-2 fs-14">Кошелек TON</a>
         <a href="https://libermall.com/" target="_blank" class="d-block mb-2 fs-14">NFT - Маркет</a>
-        <a href="https://ru.tegro.io/commerce/" class="d-block mb-2 fs-14">Платёжная система</a>
+        <a href="https://tegro.money/" class="d-block mb-2 fs-14">Платёжная система</a>
       </div>
 
       <div class="col-6 col-md-4 col-lg-2 mb-5 mb-md-0">
