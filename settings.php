@@ -20,7 +20,7 @@
                      <label for="" class="mb-2 fw-500">Email</label>
                      <div class="input-group disabled">
                      <span class="input-group-text fs-20 text-secondary"><i class="far fa-at"></i></span>
-                      <input type="text" class="form-control" value="unerd@gmail.com" disabled>
+                      <input type="text" class="form-control" value="" disabled>
                      </div>
                   </div>
                   <div class="form-group mb-4">
